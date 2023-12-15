@@ -1,0 +1,15 @@
+com\Marc\Kalamus\Kalamus.class
+com\Marc\Kalamus\Modelo\ExepcioPlaneta.class
+com\Marc\Kalamus\Modelo\Klingon.class
+com\Marc\Kalamus\Modelo\Human.class
+com\Marc\Kalamus\Modelo\Planeta.class
+com\Marc\Kalamus\Modelo\Vulcanian.class
+com\Marc\Kalamus\Modelo\Andorian.class
+com\Marc\Kalamus\Modelo\Ferengi.class
+com\Marc\Kalamus\Modelo\ExepcioNom.class
+com\Marc\Kalamus\Modelo\Nibirian.class
+com\Marc\Kalamus\Persistencia\KalamusDB.class
+com\Marc\Kalamus\ExepcioComanda.class
+com\Marc\Kalamus\Modelo\ExepcioHabitants.class
+com\Marc\Kalamus\Modelo\Esser.class
+com\Marc\Kalamus\Modelo\ExepcioAtribut.class
